@@ -7,6 +7,8 @@ Chromebook Development Resources
 
 Shader Toy - https://www.shadertoy.com/
 
+threejs - https://threejs.org/editor/
+
 
 ## Apps & Extensions
 
@@ -76,6 +78,11 @@ Crouton - https://github.com/dnschneid/crouton
 
 Crouton Wiki - https://github.com/dnschneid/crouton/wiki
 
+Android Studio Install Instuctions - https://tomwwolf.com/2013/11/20/howto-android-development-on-chromebook/
+
+Android Studio Install Instuctions - http://tamingandroidcode.blogspot.co.uk/2013/12/running-android-studio-on-chromebook.html
+
+Ubuntu Install Instructions - https://www.howtogeek.com/162120/how-to-install-ubuntu-linux-on-your-chromebook-with-crouton/
 
 ## Linux
 
